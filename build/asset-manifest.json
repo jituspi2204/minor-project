@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.48dac699.chunk.css",
-    "main.js": "/static/js/main.2d067488.chunk.js",
-    "main.js.map": "/static/js/main.2d067488.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b75b2733.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b75b2733.js.map",
-    "static/js/2.644b8532.chunk.js": "/static/js/2.644b8532.chunk.js",
-    "static/js/2.644b8532.chunk.js.map": "/static/js/2.644b8532.chunk.js.map",
-    "static/js/3.e4f3feb7.chunk.js": "/static/js/3.e4f3feb7.chunk.js",
-    "static/js/3.e4f3feb7.chunk.js.map": "/static/js/3.e4f3feb7.chunk.js.map",
+    "main.css": "/static/css/main.aba3d688.chunk.css",
+    "main.js": "/static/js/main.79fadc67.chunk.js",
+    "main.js.map": "/static/js/main.79fadc67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2673eebc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2673eebc.js.map",
+    "static/js/2.d516a92e.chunk.js": "/static/js/2.d516a92e.chunk.js",
+    "static/js/2.d516a92e.chunk.js.map": "/static/js/2.d516a92e.chunk.js.map",
+    "static/js/3.d5ad030d.chunk.js": "/static/js/3.d5ad030d.chunk.js",
+    "static/js/3.d5ad030d.chunk.js.map": "/static/js/3.d5ad030d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.48dac699.chunk.css.map": "/static/css/main.48dac699.chunk.css.map",
-    "static/js/2.644b8532.chunk.js.LICENSE.txt": "/static/js/2.644b8532.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "static/css/main.aba3d688.chunk.css.map": "/static/css/main.aba3d688.chunk.css.map",
+    "static/js/2.d516a92e.chunk.js.LICENSE.txt": "/static/js/2.d516a92e.chunk.js.LICENSE.txt",
+    "static/media/PatientPage.css": "/static/media/bg-1.77097bcf.png",
+    "static/media/HomePage.css": "/static/media/bg-2.f62f61a3.png",
+    "static/media/doctor.07d64672.jpg": "/static/media/doctor.07d64672.jpg",
+    "static/media/kidney.78da8abb.png": "/static/media/kidney.78da8abb.png",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
+    "static/media/logo.fd40651d.png": "/static/media/logo.fd40651d.png",
+    "static/media/lung.feac9afd.jpg": "/static/media/lung.feac9afd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b75b2733.js",
-    "static/js/2.644b8532.chunk.js",
-    "static/css/main.48dac699.chunk.css",
-    "static/js/main.2d067488.chunk.js"
+    "static/js/runtime-main.2673eebc.js",
+    "static/js/2.d516a92e.chunk.js",
+    "static/css/main.aba3d688.chunk.css",
+    "static/js/main.79fadc67.chunk.js"
   ]
 }
