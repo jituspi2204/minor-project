@@ -20,6 +20,7 @@ def staticpath(path):
 def ping():
     data = request.get_json(force=True)
     inputData = [np.array(list(data.values()))]
+    del inputData[-1]
     result = int(model.predict(inputData)[0])
     print(result)
     return jsonify(result=result)
