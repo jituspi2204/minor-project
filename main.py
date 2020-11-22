@@ -2,7 +2,8 @@ import numpy as np
 from flask import Flask,jsonify,request,render_template,send_from_directory,make_response
 import pickle
 from flask_cors import CORS, cross_origin
-from tensorflow import keras
+import keras
+import keras as k
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
@@ -10,7 +11,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 app = Flask('Heart Disease')
 CORS(app)
 model = pickle.load(open('heart_model.pkl','rb'))
-ckd_model = keras.models.load_model('ckd.model')
+ckd_model = k.models.load_model('ckd.model')
 @app.route('/')
 def home():
     return send_from_directory('build',"index.html")
